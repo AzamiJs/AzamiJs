@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&show_icons=true)
 
 [one_dark_pro_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=one_dark_pro
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azamijs&repo=curiositybot-md)](https://github.com/azamijs/curiositybot-md)
