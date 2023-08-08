@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ### Estadísticas 📊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=azamijs&repo=curiositybot-md)](https://github.com/azamijs/curiositybot-md)
