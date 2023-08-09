@@ -23,7 +23,7 @@
 <b>Edad:</b> 21
   <li>
   </li>
-<b>Aficiones:</b> Diseño gráfico, Desarrollo web
+<b>Aficiones:</b> Desarrollo web, programación
 </li>
 
 <!--
