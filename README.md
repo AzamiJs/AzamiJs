@@ -20,6 +20,9 @@
 <b>Género:</b> Hombre
 </li>
 <li>
+  <b>Edad:</b> 21
+  <li>
+  </li>
 <b>Aficiones:</b> Desarrollo web, programación
 </li>
 
