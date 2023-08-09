@@ -1,21 +1,14 @@
 <h2 align="center"> 💫 • MI INFO • 💫 </h2>
   <div align="center">
-<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
   </div>
 <li>
- <b>Name:</b> Shirokami Ryzen
+ <b>Nombre:</b> Azami
 </li>
 <li>
-<b>Loves:</b> Anime, Games, Music, Girl
+<b>Género:</b> Hombre
 </li>
 <li>
-<b>Gender:</b> Attack Helicopter
-</li>
-<li>
-<b>Website</b> https://www.ryzendesu.com
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Aficiones:</b> Cosas tecnológicas, Diseño gráfico, Desarrollo web
 </li>
 
 <!--
