@@ -21,8 +21,8 @@
 </li>
 <li>
 <b>Edad:</b> 21
-<li>
 </li>
+<li>
 <b>Afición:</b> Desarrollo web, programación
 </li>
 
