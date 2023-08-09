@@ -8,6 +8,9 @@
 </p>
 
 <h2 align="center"> MI INFO </h2>
+<p align="center">
+<img src="https://tinyurl.com/267gygsw" alt="Azami" width="2050"/>
+</div>
   <div align="center">
   </div>
 <li>
