@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <h2 align="center"> ESTADÍSTICAS </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darlyn1234&theme=chartreuse-dark&layout=compact)](https://github.com/darlyn1234)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=react&layout=compact)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzamiJs&" alt="Azami" /></p>
 
