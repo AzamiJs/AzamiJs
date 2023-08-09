@@ -1,9 +1,6 @@
 <h2 align="center"> BIENVENIDO/A </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=header"/>
 
-<p align="center">
-<img src="https://tinyurl.com/267gygsw" alt="Azami" width="2050"/>
-</div>
 </p>
 <a href="https://github.com/AzamiJs"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
