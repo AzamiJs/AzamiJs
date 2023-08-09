@@ -1,4 +1,22 @@
-### Hi there 👋
+<h2 align="center"> 💫 • MI INFO • 💫 </h2>
+  <div align="center">
+<img src="https://i.pinimg.com/originals/5c/d2/90/5cd2906d33a3f83dc5136885da7f34ed.gif" align="right" width="20%">
+  </div>
+<li>
+ <b>Name:</b> Shirokami Ryzen
+</li>
+<li>
+<b>Loves:</b> Anime, Games, Music, Girl
+</li>
+<li>
+<b>Gender:</b> Attack Helicopter
+</li>
+<li>
+<b>Website</b> https://www.ryzendesu.com
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+</li>
 
 <!--
 **AzamiJs/AzamiJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
