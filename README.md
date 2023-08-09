@@ -1,5 +1,5 @@
 <h2 align="center"> BIENVENIDO/A </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=react&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=header"/>
 
 <p align="center">
 <img src="https://tinyurl.com/267gygsw" alt="Azami" width="2050"/>
