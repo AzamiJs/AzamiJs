@@ -20,7 +20,7 @@
 <b>Género:</b> Hombre
 </li>
 <li>
-<b>Afi:</b> Desarrollo web, programación
+<b>Aficiones:</b> Desarrollo web, programación
 </li>
 
 <!--
