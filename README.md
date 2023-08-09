@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=react&layout=compact)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Castlevnia1&theme=tokyonight-duo&locale=en)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzamiJs&theme=react&locale=en)](https://git.io/streak-stats)
 </a>
 <h3> Time Spent </h3>
 
