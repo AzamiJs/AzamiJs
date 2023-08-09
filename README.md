@@ -1,4 +1,4 @@
-<h2 align="center"> 💫 ~ MI INFO ~ 💫 </h2>
+<h2 align="center"> MI INFO </h2>
   <div align="center">
   </div>
 <li>
