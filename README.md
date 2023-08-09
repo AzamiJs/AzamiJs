@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 <h2 align="center"> ESTADÍSTICAS </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&show_icons=true)
+![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AzamiJs&" alt="Azami" /></p>
 
 [one_dark_pro_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=one_dark_pro
 
