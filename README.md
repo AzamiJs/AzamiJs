@@ -1,4 +1,9 @@
 <h2 align="center"> BIENVENIDO/A </h2>
+<img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
+
+<p align="center">
+<img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="Azami" width="2050"/>
+</div>
 </p>
 <a href="https://github.com/AzamiJs"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
