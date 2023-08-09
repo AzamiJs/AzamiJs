@@ -1,5 +1,5 @@
 <h2 align="center"> BIENVENIDO/A </h2>
-<img src="https://i.ibb.co/7Kk6XSg/Rainbow.gif" width="100%">
+<img src="https://tinyurl.com/23vw7lpj" width="100%">
 
 <p align="center">
 <img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="Azami" width="2050"/>
