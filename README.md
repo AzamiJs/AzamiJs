@@ -20,7 +20,7 @@
 <b>Género:</b> Hombre
 </li>
 <li>
-  <b>Edad:</b> 21
+<b>Edad:</b> 21
   <li>
   </li>
 <b>Aficiones:</b> Diseño gráfico, Desarrollo web
