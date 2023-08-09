@@ -2,7 +2,7 @@
 <img src="https://www.pinterest.com.mx/pin/692006298967582264/" width="250%">
 
 <p align="center">
-<img src="https://tinyurl.com/2cojdhh4" alt="Azami" width="2050"/>
+<img src="https://tinyurl.com/22ysopbf" alt="Azami" width="2050"/>
 </div>
 </p>
 <a href="https://github.com/AzamiJs"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
