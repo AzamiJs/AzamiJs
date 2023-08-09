@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [one_dark_pro_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=one_dark_pro
 
 
-<h2 align="center"> 💻 ~ CONOCIMIENTOS ~ 💻 </h2>
+<h2 align="center"> 💻 ≈ CONOCIMIENTOS ≈ 💻 </h2>
 
 <p align="center">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
