@@ -1,5 +1,5 @@
 <h2 align="center"> BIENVENIDO/A </h2>
-<img src="https://tinyurl.com/2cojdhh4" width="100%">
+<img src="https://www.pinterest.com.mx/pin/692006298967582264/" width="250%">
 
 <p align="center">
 <img src="https://i.ibb.co/M6NG83v/RedzeoX.png" alt="Azami" width="2050"/>
