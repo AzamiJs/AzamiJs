@@ -52,9 +52,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
  </p>
 
-
- <p align="center">
-<img src="https://pin.it/3AYZQ3y" alt="RedzeoX" width="2050"/>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=footer"/>
