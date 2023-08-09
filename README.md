@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"> ESTADÍSTICAS </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=ambient-gradient&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=react&locale=es)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=react&locale=es)](https://git.io/streak-stats)
