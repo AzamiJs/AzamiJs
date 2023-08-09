@@ -8,7 +8,7 @@
 <b>Género:</b> Hombre
 </li>
 <li>
-<b>Aficiones:</b> Cosas tecnológicas, Diseño gráfico, Desarrollo web
+<b>Aficiones:</b> Diseño gráfico, Desarrollo web
 </li>
 
 <!--
