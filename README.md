@@ -4,6 +4,7 @@
 </p>
 <a href="https://github.com/AzamiJs"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=footer"/>
   <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/7b73babb0d0d49db5b0fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_ofc&github=AzamiJs&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
