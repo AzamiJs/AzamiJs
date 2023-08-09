@@ -51,3 +51,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
  </p>
+
+
+ <p align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzMGEzNzgxNWJjM2U5Y2NiOTUzMzkwMzhhZjMzZGJjZWJlYjY3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2oH5NMGhA1RF2E2Ibv/giphy.gif" alt="RedzeoX" width="2050"/>
+</div>
