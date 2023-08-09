@@ -20,6 +20,9 @@
 <b>Género:</b> Hombre
 </li>
 <li>
+  <b> Edad:</b>
+  <li>
+  </li>
 <b>Aficiones:</b> Diseño gráfico, Desarrollo web
 </li>
 
