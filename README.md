@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=react&layout=compact)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 
-[one_dark_pro_repo]:( https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=one_dark_pro)
-
 
 <h2 align="center"> CONOCIMIENTOS </h2>
 <p align="center">
