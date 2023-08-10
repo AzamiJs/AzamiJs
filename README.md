@@ -5,8 +5,7 @@
 <a href="https://github.com/AzamiJs"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
   <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/7b73babb0d0d49db5b0fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_ofc&github=AzamiJs&pattern=leaf&colorPattern=%23eaeaea" /><a>  
-
-<li> 
+    
  <details> 
    <summary>INFO</summary>
 <h3 align="center"> MI INFO </h3>
@@ -50,7 +49,6 @@
   
 </p 
 </details> 
- </li>
 
 <!--
 **AzamiJs/AzamiJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,7 +65,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<li> 
  <details> 
    <summary>ESTADÍSTICAS</summary>
 <h3 align="center"> ESTADÍSTICAS </h3>
@@ -78,9 +75,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=react&locale=es)](https://git.io/streak-stats)
 </a>
 </details> 
- </li>
  
-<li> 
  <details> 
    <summary>REPOSITORIOS</summary>
 
@@ -89,6 +84,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=react)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=footer"/>
-</details> 
- </li>
+</details>
  
