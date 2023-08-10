@@ -25,7 +25,7 @@
 <b>Afición:</b> Desarrollo web y programación
 </li>
 
-<h2 align="center"> CONOCIMIENTOS </h2>
+<h3 align="center"> CONOCIMIENTOS </h3>
 <p align="center">
 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
- <h2 align="center"> APRENDIENDO </h2>
+ <h3 align="center"> APRENDIENDO </h3>
 <p align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> ESTADÍSTICAS </h2>
+<h3 align="center"> ESTADÍSTICAS </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=ambient-gradient&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=react&locale=es)](https://github.com/AzamiJs)
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 </a>
 <h3> Time </h3>
 
- <h2 align="center"> MI PROYECTO </h2>
+ <h3 align="center"> MI PROYECTO </h3>
 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=react)</a>
 
