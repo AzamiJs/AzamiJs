@@ -47,17 +47,7 @@ Here are some ideas to get you started:
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=react&locale=es)](https://git.io/streak-stats)
 </a>
-<h3> Time Spent </h3>
-
-[![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
-
-
-<h2 align="center"> CONOCIMIENTOS </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
- </p>
+<h3> Time </h3>
 
  <h2 align="center"> MI PROYECTO </h2>
 
