@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<li> 
+ <details> 
+   <summary>A</summary>
 <h3 align="center"> ESTADÍSTICAS </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&locale=es)
