@@ -49,6 +49,8 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   
 </p 
+</details> 
+ </li>
 
 <!--
 **AzamiJs/AzamiJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -75,6 +77,9 @@ Here are some ideas to get you started:
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=react&locale=es)](https://git.io/streak-stats)
 </a>
+</details> 
+ </li>
+ 
 <li> 
  <details> 
    <summary>REPOSITORIOS</summary>
@@ -84,3 +89,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=react)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=footer"/>
+</details> 
+ </li>
+ 
