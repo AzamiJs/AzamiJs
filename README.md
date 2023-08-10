@@ -25,6 +25,13 @@
 <b>Afición:</b> Desarrollo web y programación
 </li>
 
+<h2 align="center"> CONOCIMIENTOS </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
+  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+ </p>
+
 <!--
 **AzamiJs/AzamiJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,6 +58,6 @@ Here are some ideas to get you started:
 
  <h2 align="center"> MI PROYECTO </h2>
 
- <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=react)</a>
+<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=react)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=footer"/>
