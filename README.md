@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  </p
 
- <h2 aling="center"> APRENDIENDO </h2>
+ <h2 align="center"> APRENDIENDO </h2>
  
 
 <!--
