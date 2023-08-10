@@ -6,6 +6,9 @@
 </p>
   <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/7b73babb0d0d49db5b0fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_ofc&github=AzamiJs&pattern=leaf&colorPattern=%23eaeaea" /><a>  
 
+<li> 
+ <details> 
+   <summary>INFO</summary>
 <h3 align="center"> MI INFO </h3>
 <p align="center">
 <img src="https://tinyurl.com/267gygsw" alt="Azami" width="2050"/>
@@ -64,7 +67,7 @@ Here are some ideas to get you started:
 
 <li> 
  <details> 
-   <summary>A</summary>
+   <summary>ESTADÍSTICAS</summary>
 <h3 align="center"> ESTADÍSTICAS </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&locale=es)
@@ -72,7 +75,9 @@ Here are some ideas to get you started:
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=react&locale=es)](https://git.io/streak-stats)
 </a>
-<h3> Time </h3>
+<li> 
+ <details> 
+   <summary>REPOSITORIOS</summary>
 
  <h3 align="center"> MI PROYECTO </h3>
 
