@@ -44,6 +44,9 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FB43&height=120&section=footer"/>
+ 
   
 </p 
 </details> 
@@ -81,6 +84,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=chartreuse-dark&locale=es)</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FB43&height=120&section=footer"/>
 </details>
  
