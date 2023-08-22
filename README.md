@@ -6,11 +6,9 @@
 </p>
   <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/2f0debca76d77afdc1bc9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_ofc&github=AzamiJs&pattern=leaf&colorPattern=%23eaeaea" /><a>  
     
- <details> 
-   <summary>PRESIÓNA PARA VER EL README</summary>
 <h3 align="center"> MI INFO </h3>
 <p align="center">
-<img src="https://telegra.ph/file/1ad5e7502f0a10932681e.jpg" alt="Azami" width="2050"/>
+<img src="https://telegra.ph/file/5005eefea6301534dad87.jpg" alt="Azami" width="2050"/>
 </div>
   <div align="center">
   </div>
