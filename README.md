@@ -86,6 +86,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"> COLABORACIONES </h3>
 
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotV2&theme=merko)</a>
+<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=merko)</a>
 </details>
  
