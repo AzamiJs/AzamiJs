@@ -91,5 +91,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=chartreuse-dark&locale=es)</a>
 
 <a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=merko)</a>
+
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=chartreuse-dark&locale=es)</a>
 </details>
  
