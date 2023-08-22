@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <h3 align="center"> ESTADÍSTICAS </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=react&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=react&locale=es)](https://github.com/AzamiJs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=chartreuse-dark&locale=es)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=chartreuse-dark&locale=es)](https://git.io/streak-stats)
 </a>
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
  <h3 align="center"> MI PROYECTO </h3>
 
-<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=react)</a>
+<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=chartreuse-dark&locale=es)</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FB43&height=120&section=footer"/>
 </details>
