@@ -83,6 +83,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=react)</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77BFF7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FB43&height=120&section=footer"/>
 </details>
  
