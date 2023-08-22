@@ -1,4 +1,4 @@
-<h2 align="center"> BIENVENIDO/A </h2>
+<h2 align="center"> MI PERFIL </h2>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2BC80B&height=120&section=header"/>
 
 </p>
@@ -10,7 +10,7 @@
    <summary>PRESIÓNA PARA VER EL README</summary>
 <h3 align="center"> MI INFO </h3>
 <p align="center">
-<img src="https://tinyurl.com/267gygsw" alt="Azami" width="2050"/>
+<img src="https://telegra.ph/file/1ad5e7502f0a10932681e.jpg" alt="Azami" width="2050"/>
 </div>
   <div align="center">
   </div>
