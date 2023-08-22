@@ -84,5 +84,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=chartreuse-dark&locale=es)</a>
 
+<h3 align="center"> COLABORACIONES </h3>
+
+<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotV2&theme=merko)</a>
 </details>
  
