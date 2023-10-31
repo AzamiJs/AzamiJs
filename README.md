@@ -67,6 +67,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=midnight-purple&locale=es)</a>
 
-<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=material-palenight&locale=es)</a>
+
+<a href="https://github.com/HACHEJOTA/Hachiko-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=Hachiko-Bot-MD&theme=midnight-purple&locale=es)</a>
 </details>
  
