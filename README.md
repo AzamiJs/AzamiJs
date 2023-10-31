@@ -19,7 +19,7 @@
 <b>Edad:</b> 21
 </li>
 <li>
-<b>Afición:</b> Ver Yaoi 
+<b>Afición:</b> Desarrollar Bots
 </li>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
