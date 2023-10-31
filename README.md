@@ -77,6 +77,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Ender-GB-Isis777/LOBO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=LOBO-BOT-MD&theme=material-palenight&locale=es)</a>
 
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukishima&repo=KatashiBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=midnight-purple&locale=es)</a>
 </details>
  
