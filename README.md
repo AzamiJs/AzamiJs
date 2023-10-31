@@ -47,10 +47,9 @@ Here are some ideas to get you started:
    <summary>ESTADÍSTICAS</summary>
 <h3 align="center"> ESTADÍSTICAS </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=midnight-purple&locale=es)
+![Azami GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=midnight-purple&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=midnight-purple&locale=es)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=chartreuse-dark&locale=es)](https://git.io/streak-stats)
 </a>
 </details> 
  
