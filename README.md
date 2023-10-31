@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=material-palenight&locale=es)</a>
 
-<a href="https://github.com/Kimdanbot-MD/KimdanBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jose.Ofc&repo=KimdanBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/Kimdanbot-MD/KimdanBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KimdanBot-MD&repo=KimdanBot-MD&theme=midnight-purple&locale=es)</a>
 
 <a href="https://github.com/HACHEJOTA/Hachiko-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=Hachiko-Bot-MD&theme=material-palenight&locale=es)</a>
 
