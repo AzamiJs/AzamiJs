@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 </p>
-<a href="https://github.com/AzamiJs"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
+<a href="https://github.com/AzamiJs"><img src="https://tenor.com/es-US/view/galaxy-power-gif-21765608" />
 </p>
   <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_ofc&github=AzamiJs&pattern=leaf&colorPattern=%23eaeaea" /><a>  
     
