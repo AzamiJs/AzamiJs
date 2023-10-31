@@ -4,7 +4,7 @@
 </p>
 <a href="https://github.com/AzamiJs"><img src="https://c.tenor.com/n8X8R46rIk0AAAAd/kanna.gif" />
 </p>
-  <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/2f0debca76d77afdc1bc9.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_ofc&github=AzamiJs&pattern=leaf&colorPattern=%23eaeaea" /><a>  
+  <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_ofc&github=AzamiJs&pattern=leaf&colorPattern=%23eaeaea" /><a>  
     
 <h3 align="center"> MI INFO </h3>
 <p align="center">
