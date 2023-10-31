@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <h3 align="center"> ESTADÍSTICAS </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=midnight-purple&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=chartreuse-dark&locale=es)](https://github.com/AzamiJs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=midnight-purple&locale=es)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azamijs&theme=chartreuse-dark&locale=es)](https://git.io/streak-stats)
 </a>
@@ -79,11 +79,11 @@ Here are some ideas to get you started:
 
  <h3 align="center"> MI PROYECTO </h3>
 
-<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=chartreuse-dark&locale=es)</a>
+<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=midnight-purple&locale=es)</a>
 
 <h3 align="center"> COLABORACIONES </h3>
 
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=merko)</a>
+<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=material-palenight)</a>
 
 <a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=chartreuse-dark&locale=es)</a>
 
