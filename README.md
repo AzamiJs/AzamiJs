@@ -23,7 +23,7 @@
 </li>
 
 <h3 align="center"> CONOCIMIENTOS </h3>
-[`Javascrip`](https://)
+
 
 
  <h3 align="center"> APRENDIENDO </h3>
