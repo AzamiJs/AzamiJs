@@ -16,9 +16,6 @@
 <b>Género:</b> Hombre
 </li>
 <li>
-<b>Edad:</b> 21
-</li>
-<li>
 <b>Afición:</b> Desarrollar Bots
 </li>
 
