@@ -18,11 +18,8 @@
 <li>
 <b>Afición:</b> Desarrollar Bots
 </li>
-<li>
-<b>Fecha de nacimiento</b> 2002-02-14
-</li>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
  
   
 </p 
