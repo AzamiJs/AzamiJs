@@ -1,5 +1,5 @@
 <h2 align="center"> MI PERFIL </h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b2ffff&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b2fff&height=120&section=header"/>
 
   <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Azami&description=Hola,%20soy%20Azami&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=azami_dev&youtube=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>  
     
