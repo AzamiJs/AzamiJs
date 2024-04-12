@@ -44,11 +44,10 @@ Here are some ideas to get you started:
    <summary>ESTADÍSTICAS</summary>
 <h3 align="center"> ESTADÍSTICAS </h3>
 
-![Azami GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs&theme=midnight-purple&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=midnight-purple&locale=es)](https://github.com/AzamiJs)
+![Zam GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs\&rank_icon=github&theme=algolia&locale=es)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=algolia&locale=es)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square)
 </a>
-![Zam GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs\&rank_icon=github&theme=midnight-purple&locale=es)
 
 </details> 
  
