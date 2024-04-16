@@ -4,7 +4,7 @@
   <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola,%20soy%20Zam&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam_sharly&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>  
   
 <p align="center">
- <!-- <img src="https://telegra.ph/file/9d6be6de2a522aa30c570.jpg" alt="Azami" width="2050"/>
+ <!-- <img src="https://telegra.ph/file/9d6be6de2a522aa30c570.jpg" alt="Azami" width="2050"/>-->
 </div> 
   <div align="center">
   </div>
@@ -15,9 +15,11 @@
 <b>Género:</b> Hombre ♂️
 </li>
 <li>
-<b>País
+<b>País</b> México 🇲🇽
+</li>
+<li>
 <b>Afición:</b> Desarrollar Bots
-</li>-->
+</li>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
  
