@@ -9,7 +9,7 @@
   <div align="center">
   </div>
 <li>
- <b>Nombre:</b> Zam
+ <b>Nombre:</b> Zam 🌠
 </li>
 <li>
 <b>Género:</b> Hombre ♂️
@@ -18,7 +18,7 @@
 <b>País</b> México 🇲🇽
 </li>
 <li>
-<b>Afición:</b> Desarrollar Bots
+<b>Afición:</b> Desarrollar Bots 💻
 </li>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
  <h3 align="center"> MI PROYECTO </h3>
 
-<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=algolia&locale=es)</a>
 
 <h3 align="center"> COLABORACIONES </h3>
 
