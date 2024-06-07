@@ -76,3 +76,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/EnderJs-CreatorGL/LOBO-BOT-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=EnderJs-CreatorGL&repo=LOBO-BOT-Lite&theme=react&locale=es)</a>
 
 <a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=algolia&locale=es)</a>
+
+<a href="https://github.com/Edwardofc/ATRO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=ATRO-BOT-MD&theme=react&locale=es)</a>
