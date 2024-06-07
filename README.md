@@ -80,3 +80,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Edwardofc/ATRO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=ATRO-BOT-MD&theme=react&locale=es)</a>
 
 <a href="https://github.com/Diego-YL-177/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Diego-YL-177&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
+
+<a href="https://github.com/EnderJs-CreatorGL/MoonContentCreator/BixbyBot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MoonContentCreator&repo=BixbyBot-Md&theme=react&locale=es)</a>
+
+<a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=algolia&locale=es)</a>
