@@ -86,3 +86,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=algolia&locale=es)</a>
 
 <a href="https://github.com/DanielDiod/DokiBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DanielDiod&repo=DokiBot&theme=react&locale=es)</a>
+
+<a href="https://github.com/elrebelde21/InfinityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=InfinityBot-MD&theme=algolia&locale=es)</a>
+
+<a href="https://github.com/GataNina-Li/YartexBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=YartexBot-MD&theme=react&locale=es)</a>
