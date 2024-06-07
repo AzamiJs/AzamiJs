@@ -69,10 +69,10 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Kimdanbot-MD/KimdanBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KimdanBot-MD&repo=KimdanBot-MD&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/HACHEJOTA/HachikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=Hachiko-Bot-MD&theme=react&locale=es)</a>
+<a href="https://github.com/HACHEJOTA/HachikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=HachikoBot-MD&theme=react&locale=es)</a>
 
 <a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/Ender-GB-Isis777/LOBO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=LOBO-BOT-MD&theme=react&locale=es)</a>
+<a href="https://github.com/Ender-GB-Isis777/LOBO-BOT-Lite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=LOBO-BOT-Lite-MD&theme=react&locale=es)</a>
 
 <a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=algolia&locale=es)</a>
