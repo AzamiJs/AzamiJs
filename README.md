@@ -25,7 +25,7 @@
  
   
 </p 
-</details> 
+ 
 
 <!--
 **AzamiJs/AzamiJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,20 +42,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <details> 
-   <summary>ESTADÍSTICAS</summary>
+  
+   
 <h3 align="center"> ESTADÍSTICAS </h3>
 
 ![Zam GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs\&rank_icon=github&theme=algolia&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=algolia&locale=es)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square&theme=algolia)
 </a>
-
-
-</details> 
- 
- <details> 
-   <summary>REPOSITORIOS</summary>
 
  <h3 align="center"> MI PROYECTO </h3>
 
@@ -75,12 +69,10 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Kimdanbot-MD/KimdanBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KimdanBot-MD&repo=KimdanBot-MD&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/HACHEJOTA/Hachiko-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=Hachiko-Bot-MD&theme=react&locale=es)</a>
+<a href="https://github.com/HACHEJOTA/HachikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=Hachiko-Bot-MD&theme=react&locale=es)</a>
 
 <a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=algolia&locale=es)</a>
 
 <a href="https://github.com/Ender-GB-Isis777/LOBO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=LOBO-BOT-MD&theme=react&locale=es)</a>
 
 <a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=algolia&locale=es)</a>
-</details>
- 
