@@ -63,24 +63,24 @@ Here are some ideas to get you started:
 
 <h3 align="center"> COLABORACIONES </h3>
 
-<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=material-palenight&locale=es)</a>
+<a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=react&locale=es)</a>
 
-<a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/elrebelde21/The-LoliBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=The-LoliBot-MD&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=material-palenight&locale=es)</a>
+<a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=react&locale=es)</a>
 
-<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=material-palenight&locale=es)</a>
+<a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=react&locale=es)</a>
 
-<a href="https://github.com/Kimdanbot-MD/KimdanBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KimdanBot-MD&repo=KimdanBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/Kimdanbot-MD/KimdanBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KimdanBot-MD&repo=KimdanBot-MD&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/HACHEJOTA/Hachiko-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=Hachiko-Bot-MD&theme=material-palenight&locale=es)</a>
+<a href="https://github.com/HACHEJOTA/Hachiko-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=Hachiko-Bot-MD&theme=react&locale=es)</a>
 
-<a href="https://github.com/Jxtxn17/TurboBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=TurboBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/Jxtxn17/TurboBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=TurboBot-MD&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/Ender-GB-Isis777/LOBO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=LOBO-BOT-MD&theme=material-palenight&locale=es)</a>
+<a href="https://github.com/Ender-GB-Isis777/LOBO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Ender-GB-Isis777&repo=LOBO-BOT-MD&theme=react&locale=es)</a>
 
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=midnight-purple&locale=es)</a>
+<a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=algolia&locale=es)</a>
 </details>
  
