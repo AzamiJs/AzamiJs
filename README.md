@@ -1,7 +1,9 @@
 ## `MI PERFIL`
 
-  <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola,%20soy%20Zam.%20Creador%20de%20CuriosityBot-MD&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam._.bl&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>  
+  <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola+Soy+Zam+Creador+de+CuriosityBot.&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam._.bl&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>
+_Mi nombre es Carlos, conocido como Zam. Mi interés se centra en el desarrollo de bots. Vivo en México y mi proyecto es CuriosityBot-MD._
 
+`Mi top en los comitters de México`
 [![committers.top badge](https://user-badge.committers.top/mexico/AzamiJs.svg)](https://user-badge.committers.top/mexico/AzamiJs)
  
   
@@ -25,18 +27,18 @@ Here are some ideas to get you started:
 
   
    
-<h3 align="center"> ESTADÍSTICAS </h3>
+### `ESTADÍSTICAS`
 
 ![Zam GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs\&rank_icon=github&theme=algolia&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=algolia&locale=es)](https://github.com/AzamiJs)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square&theme=algolia)
 </a>
 
- <h3 align="center"> MI PROYECTO </h3>
+### `MI PROYECTO`
 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=algolia&locale=es)</a>
 
-<h3 align="center"> COLABORACIONES </h3>
+### `COLABORACIONES`
 
 <a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=react&locale=es)</a>
 
