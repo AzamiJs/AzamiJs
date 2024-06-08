@@ -1,7 +1,6 @@
-<h2 align="center"> MI PERFIL </h2>
+## `MI PERFIL`
 
-  <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola,%20soy%20Zam&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam_sharly&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>  
-
+  <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola,%20soy%20Zam.%20Creador%20de%20CuriosityBot-MD&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam._.bl&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>  
 
 [![committers.top badge](https://user-badge.committers.top/mexico/AzamiJs.svg)](https://user-badge.committers.top/mexico/AzamiJs)
  
