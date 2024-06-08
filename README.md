@@ -5,6 +5,11 @@ _Mi nombre es Carlos, conocido como Zam. Mi interés se centra en el desarrollo 
 
 `Mi top en los comitters de México`
 [![committers.top badge](https://user-badge.committers.top/mexico/AzamiJs.svg)](https://user-badge.committers.top/mexico/AzamiJs)
+
+`Sigue mis cuentas`
+
+<a href="https://www.instagram.com/zam._.bl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://dev.to/azamijs" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
  
   
 </p 
