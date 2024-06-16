@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ![Zam GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs\&rank_icon=github&theme=algolia&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=algolia&locale=es)](https://github.com/AzamiJs)
+![](https://github-contributor-stats.vercel.app/api?username=AzamiJs&limit=5&theme=algolia&combine_all_yearly_contributions=true&locale=es)
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square&theme=algolia&locale=es)
 </a>
 
