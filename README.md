@@ -1,4 +1,4 @@
-## `MI PERFIL`
+## `Mi perfil`
 
 <a href="https://github.com/AzamiJs"><img src="https://cardivo.vercel.app/api?name=Zam&description=Hola+Soy+Zam.+Creador+de+CuriosityBot.&image=https://telegra.ph/file/564ace770182210b144fb.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=zam._.bl&whatsapp=Azami_YT&pattern=leaf&colorPattern=%23eaeaea" /><a>
 _Mi nombre es Carlos, conocido como Zam. Mi interés se centra en el desarrollo de bots. Vivo en México y mi proyecto es CuriosityBot-MD._
