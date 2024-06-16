@@ -12,29 +12,8 @@ _Mi nombre es Carlos, conocido como Zam. Mi interés se centra en el desarrollo 
 <a href="https://www.facebook.com/zammjs" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/azamijs" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://x.com/Sharli_Zam" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Ffollow%2FSharli_Zam&style=flat-square&logo=x&logoColor=white" alt="X"></a>
- 
-  
-</p 
- 
-
-<!--
-**AzamiJs/AzamiJs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
    
-### `ESTADÍSTICAS`
+### `Estadísticas`
 
 ![Zam GitHub stats](https://github-readme-stats.vercel.app/api?username=azamijs\&rank_icon=github&theme=algolia&locale=es)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzamiJs&theme=algolia&locale=es)](https://github.com/AzamiJs)
@@ -42,11 +21,11 @@ Here are some ideas to get you started:
 ![counter](https://komarev.com/ghpvc/?username=AzamiJs&style=flat-square&theme=algolia&locale=es)
 </a>
 
-### `MI PROYECTO`
+### `Mi proyecto`
 
 <a href="https://github.com/AzamiJs/CuriosityBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzamiJs&repo=CuriosityBot-MD&theme=algolia&locale=es)</a>
 
-### `COLABORACIONES`
+### `Colaboraciones`
 
 <a href="https://github.com/GataNina-Li/GataBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBot-MD&theme=react&locale=es)</a>
 
