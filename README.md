@@ -33,7 +33,7 @@
 <a href="https://github.com/GataNina-Li/GataBotLite-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=GataNina-Li&repo=GataBotLite-MD&theme=react&locale=es)</a>
 <a href="https://github.com/BrunoSobrino/TheMystic-Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoSobrino&repo=TheMystic-Bot-MD&theme=algolia&locale=es)</a>
 <a href="https://github.com/elrebelde21/NovaBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=elrebelde21&repo=NovaBot-MD&theme=react&locale=es)</a>
-<a href="https://github.com/Kimdanbot-MD/KimdanBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KimdanBot-MD&repo=KimdanBot-MD&theme=algolia&locale=es)</a>
+<a href="https://github.com/OfcDiego/LuffyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=OfcDiego&repo=LuffyBot-MD&theme=algolia&locale=es)</a>
 <a href="https://github.com/HACHEJOTA/HachikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=HACHEJOTA&repo=HachikoBot-MD&theme=react&locale=es)</a>
 <a href="https://github.com/Jxtxn17/BaileyBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Jxtxn17&repo=BaileyBot-MD&theme=algolia&locale=es)</a>
 <a href="https://github.com/EnderJs-CreatorGL/LOBO-BOT-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=EnderJs-CreatorGL&repo=LOBO-BOT-Lite&theme=react&locale=es)</a>
