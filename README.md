@@ -39,7 +39,7 @@
 <a href="https://github.com/EnderJs-CreatorGL/LOBO-BOT-Lite">![github card](https://github-readme-stats.vercel.app/api/pin/?username=EnderJs-CreatorGL&repo=LOBO-BOT-Lite&theme=react&locale=es)</a>
 <a href="https://github.com/KatashiFukushima/KatashiBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=KatashiFukushima&repo=KatashiBot-MD&theme=algolia&locale=es)</a>
 <a href="https://github.com/Edwardofc/ATRO-BOT-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Edwardofc&repo=ATRO-BOT-MD&theme=react&locale=es)</a>
-<a href="https://github.com/Diego-YL-177/YoshikoBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Diego-YL-177&repo=YoshikoBot-MD&theme=algolia&locale=es)</a>
+<a href="https://github.com/DanielDiod/Sumi-Sakurasawa">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DanielDiod&repo=Sumi-Sakurasawa&theme=algolia&locale=es)</a>
 <a href="https://github.com/MoonContentCreator/BixbyBot-Md">![github card](https://github-readme-stats.vercel.app/api/pin/?username=MoonContentCreator&repo=BixbyBot-Md&theme=react&locale=es)</a>
 <a href="https://github.com/WilsonOFC/MylingBot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=WilsonOFC&repo=MylingBot-MD&theme=algolia&locale=es)</a>
 <a href="https://github.com/DanielDiod/DokiBot">![github card](https://github-readme-stats.vercel.app/api/pin/?username=DanielDiod&repo=DokiBot&theme=react&locale=es)</a>
